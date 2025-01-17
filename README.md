@@ -1,2 +1,5 @@
-# Music-Database-System
-Showcase for how music is being stored in Spotify, Apple Music etc.
+As part of college academics, with a team of four, I have designed a database management model to simulate music storage in popular music player applications like Spotify, Apple-Music etc.
+
+### To-Do:
+- [ ] Add SQL File
+- [ ] Add 1NF, 2NF, 3NF
